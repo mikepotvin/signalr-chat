@@ -1,4 +1,11 @@
 # signalr-chat
 
-## API Features
-- Basic SignalR Chat
+## Feature List
+- [ ] Basic SignalR Chat
+- [ ] Chat Rooms
+- [ ] Direct Message
+
+## Supports
+- [ ] Xamarin
+- [ ] React Web
+- [ ] React Native
